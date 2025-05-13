@@ -18,8 +18,11 @@ Uma aplicação Python com interface gráfica que permite configurar uma contage
 
 ## 🖼️ Imagens de Fundo
 
-  ![janela inicial](tela1.png) | ![janela principal](tela2.png)
-  ![tela bloqueada](tela3.png)
+  ![janela inicial](tela1.png) ![janela principal](tela2.png)
+
+<div align="center">
+  <img src="tela3.png" alt="Formulário" width="20%" style="margin-right: 10px;"/>
+</div>
   
 
 As imagens devem estar na mesma pasta que o script principal.
