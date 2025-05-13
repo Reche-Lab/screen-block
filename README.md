@@ -21,11 +21,10 @@ Uma aplicação Python com interface gráfica que permite configurar uma contage
   ![janela inicial](./src/images/tela1.png) ![janela principal](./src/images/tela2.png)
 
 <div align="center">
-  <img src="./src/images/tela3.png" alt="Formulário" width="50%" style="margin-right: 10px;"/>
+  <img src="./src/images/tela3.png" alt="Formulário" width="50%"/>
 </div>
   
 
-As imagens devem estar na mesma pasta que o script principal.
 
 ---
 
