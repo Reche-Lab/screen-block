@@ -41,6 +41,8 @@ Este projeto foi criado com fins educacionais, como parte do processo de aprendi
 3. Execute a aplicação:
 ```python countdown.py```
 
+---
+
 ## 📋 Requisitos
 
     Python 3.8+
@@ -51,7 +53,15 @@ Este projeto foi criado com fins educacionais, como parte do processo de aprendi
 
     playsound (para sistemas não Windows)
 
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido com 💙 por Bruno Reche.
 Entre em contato ou contribua com melhorias via Pull Requests!
+
+---
+
+## 📝 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
