@@ -16,12 +16,12 @@ Uma aplicação Python com interface gráfica que permite configurar uma contage
 
 ---
 
-## 🖼️ Imagens de Fundo
+## 🖼️ Imagem das Telas
 
-  ![janela inicial](tela1.png) ![janela principal](tela2.png)
+  ![janela inicial](./src/images/tela1.png) ![janela principal](./src/images/tela2.png)
 
 <div align="center">
-  <img src="tela3.png" alt="Formulário" width="50%" style="margin-right: 10px;"/>
+  <img src="./src/images/tela3.png" alt="Formulário" width="50%" style="margin-right: 10px;"/>
 </div>
   
 
