@@ -1,8 +1,6 @@
 # ⏳ Contagem Regressiva com Bloqueio de Tela
 
-Uma aplicação Python com interface gráfica que permite configurar uma contagem regressiva personalizada. Ao término do tempo, a tela é bloqueada e só pode ser desbloqueada com uma senha definida pelo usuário. Ideal para pausas, foco, produtividade ou controle de tempo em ambientes compartilhados.
-
-![Interface da Aplicação](screenshot.png)
+Este projeto foi criado com fins educacionais, como parte do processo de aprendizado da linguagem Python, sendo uma aplicação com interface gráfica que permite configurar uma contagem regressiva personalizada. Ao término do tempo, a tela é bloqueada e só pode ser desbloqueada com uma senha definida pelo usuário. Ideal para pausas, foco, produtividade ou controle de tempo em ambientes compartilhados.
 
 ## 🚀 Funcionalidades
 
@@ -26,8 +24,6 @@ Uma aplicação Python com interface gráfica que permite configurar uma contage
 <div align="center">
     <img src="./src/images/tela3.png" alt="Formulário" width="50%"/>
 </div>
-  
-
 
 ---
 
