@@ -18,9 +18,9 @@ Uma aplicação Python com interface gráfica que permite configurar uma contage
 
 ## 🖼️ Imagens de Fundo
 
-- `tela1.png` → imagem da janela inicial  
-- `tela2.png` → imagem da janela principal  
-- `tela3.png` → imagem da tela de bloqueio  
+  ![janela inicial](tela1.png) | ![janela principal](tela2.png)
+  ![tela bloqueada](tela3.png)
+  
 
 As imagens devem estar na mesma pasta que o script principal.
 
