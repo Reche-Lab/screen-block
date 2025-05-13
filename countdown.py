@@ -24,7 +24,7 @@ class CountdownApp:
         master.resizable(True, True)
 
         # Carrega e armazena a imagem original
-        self.original_bg1 = Image.open("fundo1.jpg")
+        self.original_bg1 = Image.open(os.path.join(os.path.dirname(__file__), "src", "images", "fundo1.jpg"))
         self.bg1 = ImageTk.PhotoImage(self.original_bg1)
         self.bg_label = tk.Label(master, image=self.bg1)
         self.bg_label.place(x=0, y=0, relwidth=1, relheight=1)
@@ -130,7 +130,7 @@ class CountdownApp:
                 if platform.system() == "Windows":
                     winsound.Beep(1000, 500)
                 else:
-                    playsound(os.path.join(os.path.dirname(__file__), "start.mp3"))
+                    playsound(os.path.join(os.path.dirname(__file__),"src","sounds","start.mp3"))
             except:
                 print("Erro ao reproduzir som.")
 
@@ -145,7 +145,7 @@ class CountdownApp:
         lock.grab_set()
 
         # Fundo da tela de bloqueio
-        fundo2 = Image.open("fundo2.jpg")
+        fundo2 = Image.open(os.path.join(os.path.dirname(__file__), "src", "images", "fundo2.jpg"))
         screen_width = lock.winfo_screenwidth()
         screen_height = lock.winfo_screenheight()
         fundo2 = fundo2.resize((screen_width, screen_height))
@@ -184,7 +184,7 @@ class CountdownApp:
                     if platform.system() == "Windows":
                         winsound.Beep(1500, 500)
                     else:
-                        playsound(os.path.join(os.path.dirname(__file__), "finished.mp3"))
+                        playsound(os.path.join(os.path.dirname(__file__),"src","sounds","finished.mp3"))
                 except:
                     print("Erro ao reproduzir som.")
                 lock.destroy()
