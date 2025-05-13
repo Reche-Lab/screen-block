@@ -17,12 +17,12 @@ Este projeto foi criado com fins educacionais, como parte do processo de aprendi
 ## 🖼️ Imagem das Telas
 
 <div align="center">
-    <img src="./src/images/tela1.png" alt="Formulário" width="45%"/>
-    <img src="./src/images/tela2.png" alt="Formulário" width="45%"/>
+    <img src="./src/images/tela1.png" alt="passwordDefinition" width="45%"/>
+    <img src="./src/images/tela2.png" alt="countDownForm" width="45%"/>
 </div>
 
 <div align="center">
-    <img src="./src/images/tela3.png" alt="Formulário" width="50%"/>
+    <img src="./src/images/tela3.png" alt="blockedScreen" width="50%"/>
 </div>
 
 ---
